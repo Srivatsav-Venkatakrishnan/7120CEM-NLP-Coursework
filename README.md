@@ -23,6 +23,6 @@ This repository contains code and resources for a spoiler classification model b
   Additionally, the spoilers are categorized into three types: short phrase spoilers, longer passage spoilers, and multiple non-consecutive pieces of text.
 - I have provided the dataset for training and validating the model.
 - The dataset comes with predefined train/validation/test splits:
-- [3,200 posts for training](training.jsonl)
-- [800 posts for validation](validation.jsonl).
+- [3,200 posts for training] (training.jsonl)
+- [800 posts for validation] (validation.jsonl).
 
