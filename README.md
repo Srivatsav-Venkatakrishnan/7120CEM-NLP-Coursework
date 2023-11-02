@@ -1,12 +1,13 @@
-# 7120CEM-NLP-Coursework
+# 7120CEM-NLP-Coursework 1
 
 # Spoiler Classification using LSTM 
 
 This repository contains code and resources for a spoiler classification model based on Long Short-Term Memory (LSTM) neural networks. The model is designed to classify text and identify potential spoilers in textual content.
 
 ## Overview
-
 - The LSTM model is trained to predict whether a given text contains spoilers or not.
+- In this project I employed pre-trained GloVe word embeddings. GloVe embeddings provide vector representations for words that capture their meaning and 
+  relationships in a continuous vector space. These embeddings were used as the input features for the LSTM model.
 - It can be useful for applications like spoiler detection in user-generated reviews, comments, or social media posts.
 
 ## Requirements
