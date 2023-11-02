@@ -1,6 +1,6 @@
 # 7120CEM-NLP-Coursework 1
 
-# Spoiler Classification using LSTM 
+# ClickBait Spoilingc--cSpoiler Classification using LSTM 
 
 This repository contains code and resources for a spoiler classification model based on Long Short-Term Memory (LSTM) neural networks. The model is designed to classify text and identify potential spoilers in textual content.
 
