@@ -19,6 +19,8 @@ This repository contains code and resources for a spoiler classification model b
 - Jupyter Notebook
 
 ## Dataset
+
+- This a open source dataset and the dataset is downloaded from https://webis.de/data.html?q=clickbait
 - This dataset contains the clickbait posts and manually cleaned versions of the linked documents, and extracted spoilers for each clickbait post.
   Additionally, the spoilers are categorized into three types: short phrase spoilers, longer passage spoilers, and multiple non-consecutive pieces of text.
 - I have provided the dataset for training and validating the model.
